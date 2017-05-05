@@ -1,6 +1,7 @@
 import Vapor
 
 let drop = Droplet()
+let videoController = VideoController()
 
 drop.get { req in
     return try drop.view.make("welcome", [
@@ -9,5 +10,7 @@ drop.get { req in
 }
 
 drop.resource("posts", PostController())
+
+drop.get("/videos", handler: videoController.getAllVideos)
 
 drop.run()
