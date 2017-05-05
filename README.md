@@ -1,2 +1,2 @@
-# YoutubeLite-REST-API-
+# YoutubeLite-REST-API
 Swift on server using Vapor framework
