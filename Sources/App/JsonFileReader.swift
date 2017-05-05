@@ -9,7 +9,7 @@
 import Foundation
 
 
-class JsonFileReader  {
+final class JsonFileReader  {
     
     class func readJson(fileName: String) -> String {
         do{
