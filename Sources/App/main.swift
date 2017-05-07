@@ -11,6 +11,6 @@ drop.get { req in
 
 drop.resource("posts", PostController())
 
-drop.get("/videos", handler: videoController.getAllVideos)
+drop.get("/api/videos", handler: videoController.getAllVideos)
 
 drop.run()
