@@ -6,7 +6,7 @@ Currenlty running and hosted on Ubuntu 16.04.2 x64
 
 Available at:
 http://brastad.pro:8080
-http://brastad.pro:8080/videos
+http://brastad.pro:8080/api/videos
 
 ## 📖 Documentation
 
