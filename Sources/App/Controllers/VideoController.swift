@@ -12,10 +12,32 @@ import HTTP
 
 final class VideoController {
     
-    func getAllVideos(_ request: Request) throws -> ResponseRepresentable {
-        let videos = JsonFileReader.readJson(fileName: "Videos.json")
+    func getAll(_ request: Request) throws -> ResponseRepresentable {
+        let videos = JsonFileReader.readJson(fileName: "videos.json")
         
         return videos
     }
+    
+    
+    func getTrending(_ request: Request) throws -> ResponseRepresentable {
+        let videos = JsonFileReader.readJson(fileName: "trending.json")
+        
+        return videos
+    }
+    
+    
+    func getSubscribed(_ request: Request) throws -> ResponseRepresentable {
+        let videos = JsonFileReader.readJson(fileName: "subscriptions.json")
+        
+        return videos
+    }
+    
+    
+    func getUrlsPart2(_ request: Request) throws -> ResponseRepresentable {
+        let videos = JsonFileReader.readJson(fileName: "urls.json")
+        
+        return videos
+    }
+    
     
 }
