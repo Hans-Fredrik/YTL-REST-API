@@ -14,6 +14,5 @@ drop.resource("posts", PostController())
 drop.get("/api/videos", handler: videoController.getAll)
 drop.get("/api/videos/trending", handler: videoController.getTrending)
 drop.get("/api/videos/subscriptions", handler: videoController.getSubscribed)
-drop.get("/api/videos/urls", handler: videoController.getUrlsPart2)
 
 drop.run()

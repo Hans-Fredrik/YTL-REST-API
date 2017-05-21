@@ -32,12 +32,4 @@ final class VideoController {
         return videos
     }
     
-    
-    func getUrlsPart2(_ request: Request) throws -> ResponseRepresentable {
-        let videos = JsonFileReader.readJson(fileName: "urls.json")
-        
-        return videos
-    }
-    
-    
 }
