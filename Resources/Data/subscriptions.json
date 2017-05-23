@@ -1,32 +1,35 @@
  [
   {
-  "title": "Taylor Swift on Love: 'Happily Ever After Doesn't Happen in Real Life'",
-  "number_of_views": 23456,
+  "title": "Taylor Swift - Love Story",
+  "number_of_views":  374380127,
   "thumbnail_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/taylor_swift_on_love.jpg",
   "channel": {
   "name": "Taylor Fan Forever",
   "profile_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/taylor_fan_forever_profile.jpg"
   },
-  "duration": 286
+  "duration": 286,
+  "video_id": "8xg3vE8Ie_E"
   },
   {
   "title": "Drake - Hotline Bling",
-  "number_of_views": 762630652,
+  "number_of_views": 1229830551,
   "thumbnail_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/drake_hotline_bling.jpg",
   "channel": {
   "name": "Taylor Fan Forever",
   "profile_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/taylor_fan_forever_profile.jpg"
   },
-  "duration": 223
+  "duration": 223,
+  "video_id": "uxpDa-c-4Mc"
   },
   {
-  "title": "I Knew You Were Trouble",
-  "number_of_views": 319644991,
+  "title": "Taylor Swift - I Knew You Were Trouble",
+  "number_of_views": 362207490,
   "thumbnail_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/taylor_swift_i_knew_you_were_trouble.jpg",
   "channel": {
   "name": "Taylor Fan Forever",
   "profile_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/taylor_fan_forever_profile.jpg"
   },
-  "duration": 210
+  "duration": 210,
+  "video_id": "vNoKguSdy4Y"
   }
   ]

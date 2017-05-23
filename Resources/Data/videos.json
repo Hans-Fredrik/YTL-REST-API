@@ -1,62 +1,68 @@
 [
   {
     "title": "Taylor Swift - I Knew You Were Trouble (Exclusive)",
-    "number_of_views": 319644991,
+    "number_of_views": 362207515,
     "thumbnail_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/taylor_swift_i_knew_you_were_trouble.jpg",
     "channel": {
       "name": "Taylor Fan Forever",
       "profile_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/taylor_fan_forever_profile.jpg"
     },
-    "duration": 210
+    "duration": 210,
+    "video_id": "vNoKguSdy4Y"
   },
   {
     "title": "Rihanna Work featuring Drake",
-    "number_of_views": 92839921,
+    "number_of_views": 877238291,
     "thumbnail_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/rihanna_work.jpg",
     "channel": {
       "name": "Rihanna's Channel",
       "profile_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/rihanna_profile.jpg"
     },
-    "duration": 189
+    "duration": 189,
+    "video_id": "HL1UzIK-flA"
   },
   {
     "title": "Beyonce - Put A Ring On It",
-    "number_of_views": 52321223,
+    "number_of_views": 576935634,
     "thumbnail_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/beyonce_put_a_ring_on_it.jpg",
     "channel": {
       "name": "Taylor Fan Forever",
       "profile_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/beyonce_profile.jpg"
     },
-    "duration": 410
+    "duration": 410,
+    "video_id": "4m1EFMoRFvY"
   },
   {
     "title": "Kanye Interrupts Taylor Embarrassing Video",
-    "number_of_views": 9999999999999,
+    "number_of_views": 29107398 ,
     "thumbnail_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/kanye-interupts-taylor-zoom.jpg",
     "channel": {
       "name": "KanyeLover",
       "profile_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/kanye_profile2.jpeg"
     },
-    "duration": 80
+    "duration": 80,
+    "video_id": "1z8gCZ7zpsQ"
   },
   {
     "title": "Rebecca Black - Friday",
-    "number_of_views": 12312344,
+    "number_of_views": 108539987,
     "thumbnail_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/rebecca_black_friday.jpg",
     "channel": {
       "name": "Rebecca Black's Awesome",
       "profile_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/rebecca_black_profile.jpeg"
     },
-    "duration": 232
+    "duration": 232,
+    "video_id": "kfVsfOSbJY0"
   },
   {
     "title": "John Legend - All Of Me",
-    "number_of_views": 334435123,
+    "number_of_views": 1101918461,
     "thumbnail_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/john_legend_all_of_me.jpg",
     "channel": {
       "name": "JohnTheLegend",
       "profile_image_name": "https:\/\/vapor-rest.herokuapp.com\/images\/john_legend_profile.jpeg"
     },
-    "duration": 301
+    "duration": 301,
+    "video_id": "450p7goxZqg"
   }
 ]
