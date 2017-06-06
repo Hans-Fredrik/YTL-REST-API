@@ -1,6 +1,8 @@
 ## YoutubeLite-REST-API
 
-Swift on server using Vapor framework
+A minimal REST-API created for the Youtube clone app (https://github.com/Hans-Fredrik/YoutubeLite-IOS-App) 
+
+Porject is using Swift on server powered by the Vapor framework
 
 Deployed and available at:
 
